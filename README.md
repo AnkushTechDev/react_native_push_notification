@@ -1,6 +1,6 @@
 # react_native_push_notification
 Push notification using react native without firebase.
-<b><a href="https://expo.io/@ankushj/react_native_push_notification">Demo</a></b>
+<br><b><a href="https://expo.io/@ankushj/react_native_push_notification">Demo</a></b>
 
 
 ## Examples
